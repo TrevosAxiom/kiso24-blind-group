@@ -1,0 +1,251 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Kiso24 Blind Group\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-02-01 17:52+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.7.1; wp-6.7.1\n"
+"X-Domain: kiso24-pleated"
+
+#. Description of the plugin
+msgid ""
+"A custom post type for managing Kiso24 blinds with blind group details, CSV "
+"import/export, and image uploads."
+msgstr ""
+
+#: includes/meta-box.php:142 includes/meta-box.php:197
+#: includes/meta-box.php:428
+msgid "Add Image URL"
+msgstr ""
+
+#: includes/meta-box.php:152
+msgid "Add New"
+msgstr ""
+
+#: includes/meta-box.php:8
+msgid "Allowed Taxonomies"
+msgstr ""
+
+#: kiso24-pleated-blind-group.php:86 includes/product-type.php:207
+msgid "Blind"
+msgstr ""
+
+#: includes/meta-box.php:18
+msgid "Blind Group"
+msgstr ""
+
+#: includes/meta-box.php:77
+msgid "Blind Name"
+msgstr ""
+
+#: includes/product-type.php:64
+msgid "Blind Options"
+msgstr ""
+
+#: kiso24-pleated-blind-group.php:109 includes/meta-box.php:81
+msgid "Characteristics"
+msgstr ""
+
+#: includes/blind-group-display.php:180
+msgid "Characteristics:"
+msgstr ""
+
+#: includes/taxonomy-icons.php:59 includes/taxonomy-icons.php:79
+msgid "Choose Icon"
+msgstr ""
+
+#: includes/meta-box.php:154
+msgid "Clear All"
+msgstr ""
+
+#: kiso24-pleated-blind-group.php:103 includes/product-type.php:227
+#: includes/meta-box.php:80
+msgid "Color"
+msgstr ""
+
+#: includes/blind-group-display.php:179
+msgid "Color:"
+msgstr ""
+
+#: includes/meta-box.php:33
+msgid "CSV imported successfully!"
+msgstr ""
+
+#: includes/meta-box.php:413
+msgid "Enter the URL of the image:"
+msgstr ""
+
+#: includes/meta-box.php:37
+msgid "Error importing CSV."
+msgstr ""
+
+#: kiso24-pleated-blind-group.php:121
+msgid "Height"
+msgstr ""
+
+#: includes/taxonomy-icons.php:146
+msgid "Icon"
+msgstr ""
+
+#: includes/meta-box.php:82 includes/taxonomy-image.php:6
+#: includes/taxonomy-image.php:72
+msgid "Image"
+msgstr ""
+
+#: includes/meta-box.php:54
+msgid "Import Blinds from CSV"
+msgstr ""
+
+#: includes/meta-box.php:60 includes/meta-box.php:68
+msgid "Import CSV"
+msgstr ""
+
+#: includes/meta-box.php:66
+msgid "Import from CSV"
+msgstr ""
+
+#: includes/blind-group-display.php:36
+msgid "Invalid blind group selected."
+msgstr ""
+
+#. Name of the plugin
+msgid "Kiso24 Blind Group"
+msgstr ""
+
+#: includes/product-type.php:48
+msgid "Kiso24 Blind Type"
+msgstr ""
+
+#: includes/cpt-register.php:8 includes/cpt-register.php:9
+#: includes/cpt-register.php:13
+msgid "Kiso24 Blinds"
+msgstr ""
+
+#: includes/blind-group-display.php:23
+msgid "No allowed taxonomies found for this product."
+msgstr ""
+
+#: includes/product-type.php:163 includes/blind-group-display.php:29
+msgid "No blinds available for this product."
+msgstr ""
+
+#: includes/blind-group-display.php:45
+msgid "No blinds found in the selected group."
+msgstr ""
+
+#: kiso24-pleated-blind-group.php:61
+msgid "Please enter both width and height."
+msgstr ""
+
+#: includes/cpt-register.php:6
+msgctxt "Post Type General Name"
+msgid "Kiso24 Blinds"
+msgstr ""
+
+#: includes/cpt-register.php:7
+msgctxt "Post Type Singular Name"
+msgid "Kiso24 Blind"
+msgstr ""
+
+#: kiso24-pleated-blind-group.php:91 includes/product-type.php:213
+#: includes/meta-box.php:78
+msgid "Price Group"
+msgstr ""
+
+#: includes/blind-group-display.php:177
+msgid "Price Group:"
+msgstr ""
+
+#: includes/taxonomy-icons.php:60 includes/taxonomy-icons.php:80
+msgid "Remove Icon"
+msgstr ""
+
+#: includes/meta-box.php:143 includes/meta-box.php:198
+msgid "Remove Row"
+msgstr ""
+
+#: includes/meta-box.php:153
+msgid "Remove Selected"
+msgstr ""
+
+#: includes/blind-group-display.php:82
+msgid "See All"
+msgstr ""
+
+#: includes/product-type.php:88
+msgid "Select a Blind Group"
+msgstr ""
+
+#: includes/taxonomy-icons.php:61 includes/taxonomy-icons.php:81
+msgid "Select an icon for this term."
+msgstr ""
+
+#: includes/product-type.php:86
+msgid "Select Blind Group"
+msgstr ""
+
+#: includes/meta-box.php:126 includes/meta-box.php:184
+msgid "Select Characteristics"
+msgstr ""
+
+#: includes/taxonomy-icons.php:101
+msgid "Select or Upload Icon"
+msgstr ""
+
+#: includes/taxonomy-image.php:34
+msgid "Select or Upload Image"
+msgstr ""
+
+#: includes/price-list-manager.php:117
+msgid "Select Price List"
+msgstr ""
+
+#: includes/meta-box.php:124 includes/meta-box.php:182
+msgid "Selected characteristics"
+msgstr ""
+
+#: includes/taxonomy-icons.php:56 includes/taxonomy-icons.php:71
+msgid "Taxonomy Icon"
+msgstr ""
+
+#: kiso24-pleated-blind-group.php:97 includes/product-type.php:220
+#: includes/meta-box.php:79
+msgid "Transparency"
+msgstr ""
+
+#: includes/blind-group-display.php:178
+msgid "Transparency:"
+msgstr ""
+
+#: includes/meta-box.php:69
+msgid "Upload a CSV file to import blind group data."
+msgstr ""
+
+#: includes/taxonomy-image.php:7
+msgid "Upload/Add Image"
+msgstr ""
+
+#: includes/taxonomy-icons.php:103
+msgid "Use this icon"
+msgstr ""
+
+#: includes/taxonomy-image.php:36
+msgid "Use this image"
+msgstr ""
+
+#: kiso24-pleated-blind-group.php:115
+msgid "Width"
+msgstr ""
+
+#. Author of the plugin
+msgid "Your Name"
+msgstr ""
